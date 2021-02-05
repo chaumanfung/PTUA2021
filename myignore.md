@@ -1,4 +1,4 @@
-# creating a folder ignore by git
+# creating a folder ignored by git
 1. create a folder (myfiles)
 2. `touch .gitignore`
 3. put the line `myfiles/` in the gitignore txt file.
